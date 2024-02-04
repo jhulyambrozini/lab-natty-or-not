@@ -17,4 +17,4 @@ LeonardoAi.
 
 
 
-![Amor na chuva](https://github.com/alanaffreitas/leoai/blob/main/dio_ia.jpg)
+![Amor na chuva](https://github.com/jhulyambrozini/leoai/blob/main/Leonardo_Diffusion_XL_A_cinematic_scene_of_a_couple_lost_in_ea_3.jpg)
